@@ -12,7 +12,7 @@
 
 ### Mentee Info✨
 
-**Nama:** Nisrina Ishmah Mahira🧕
+**Name:** Nisrina Ishmah Mahira🧕
 
 **Program:** IBM Academy - Advance Al [Kampus Merdeka Batch 6 Tahun 2024]🏫🎉
 
