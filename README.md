@@ -6,7 +6,7 @@
 
 ### Mentee Assignment📝📂
 
-**Task for Mentee from IBM Advance AI @ Infinite Learning Course**🎓
+**Task for Mentee from Mentor IBM Academy Advance AI @ Infinite Learning Course**🎓
 
 **Completed Course:** Practice Python Project Course The Art of Prompt Engineering Using LLM from CognitiveClass.ai🔭🛸
 
